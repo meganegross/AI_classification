@@ -5,4 +5,4 @@
 
 </p>
 <br>-----------------------------------------------<br>
-The link to this notebook is: <a href="">Classification Notebook</a>
+The link to this notebook is: <a href="https://github.com/meganegross/AI_classification/blob/main/miniP3.ipynb">Classification Notebook</a>
